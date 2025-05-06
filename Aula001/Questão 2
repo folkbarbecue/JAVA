@@ -1,0 +1,13 @@
+1-
+package calculadora;
+
+
+public class Calculadora {
+
+    public static void main(String[] args) {
+        System.out.println("Ola " +  "Mundo!");
+
+    }
+    
+}
+2- É melhor pois fica melhor de organizar palavra por palavra
