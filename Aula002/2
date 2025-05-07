@@ -1,0 +1,17 @@
+package javaapplication2;
+import java.util.Scanner;
+
+public class JavaApplication2 {
+
+  
+    public static void main(String[] args) {
+    Scanner tec = new Scanner(System.in);
+        System.out.println("Entre com qualquer valor");
+        String numero = tec.nextLine();
+        int car = numero.length();
+        System.out.println("O valor de caracteres e: "+car);
+                
+    }  
+    
+
+}
