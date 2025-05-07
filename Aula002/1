@@ -1,0 +1,19 @@
+package javaapplication2;
+
+public class JavaApplication2 {
+
+  
+    public static void main(String[] args) {
+     int numero = 1;
+    int mul = 1;        
+          while (mul <=10 ){
+          int v = numero * mul;
+              System.out.println("1 vezes " + mul + " e igual a: " + v);
+              mul = mul + 1;
+          }
+
+                
+    }  
+    
+
+}
