@@ -1,0 +1,20 @@
+package atv;
+import java.util.Scanner;
+
+public class classe {
+
+	public static void main(String[] args) {
+
+		Scanner tec = new Scanner(System.in);
+		System.out.println("Insira a sua idade");
+		int idade = tec.nextInt();
+		System.out.println("Insira quantos meses você tem");
+		int mes = tec.nextInt();
+		System.out.println("Quantos dias?");
+		int dia = tec.nextInt();
+		
+		int id = (idade * 365) + (mes * 30) + dia;
+		System.out.println("Sua idade expressa em dias é: "+ id);
+	}
+
+}
