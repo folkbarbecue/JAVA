@@ -1,0 +1,29 @@
+package atv;
+
+
+public class classe2 {
+
+	public void davi() {
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+        System.out.println("Eu, Davi gosto de estudar Algoritmos!");
+	}
+
+}
