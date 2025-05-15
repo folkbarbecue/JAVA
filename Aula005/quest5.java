@@ -11,10 +11,9 @@ public class quest5 {
        double ho = hora/4;
        if (ho>40) {
 		double extra = ho-40;
-		double salario40 = extra*sph;
+		double salario40 = extra*sph+(sph*0.50);
 		double total1 = salario40*4; 
-		double ex = ho + extra*(sph*0.50);
-		System.out.println("O salario total foi de "+ex);
+		System.out.println("O salario total foi de "+total1);
 	} else {
 		double total = hora*sph;
 		System.out.println("O salario total foi de: "+total);
