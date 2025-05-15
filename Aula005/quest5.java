@@ -13,7 +13,7 @@ public class quest5 {
 		double extra = ho-40;
 		double salario40 = extra*sph;
 		double total1 = salario40*4; 
-		double ex = extra*(sph*0.50);
+		double ex = ho + extra*(sph*0.50);
 		System.out.println("O salario total foi de "+ex);
 	} else {
 		double total = hora*sph;
